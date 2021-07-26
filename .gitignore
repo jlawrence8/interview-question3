@@ -1,0 +1,22 @@
+#Intellij
+*.iml
+*.idea
+
+# manifest files
+**/MANIFEST.MF
+
+# Package Files #
+target
+target/**/*.jar
+*.class
+
+# Eclipse generated files #
+.project
+.classpath
+.factorypath
+*/.project
+*/.classpath
+*/.factorypath
+
+# common
+build

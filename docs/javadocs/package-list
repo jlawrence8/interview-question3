@@ -1,0 +1,7 @@
+com.example
+com.example.forum.controller
+com.example.forum.exception
+com.example.forum.form
+com.example.forum.model
+com.example.forum.repository
+com.example.forum.service
